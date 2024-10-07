@@ -1,4 +1,4 @@
-# Suggested code may be subject to a license. Learn more: ~LicenseLog:1479734646.
+
 class Book:
     def __init__(self, title, author, pages):
         self.title = title
