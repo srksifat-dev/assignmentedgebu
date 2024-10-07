@@ -5,5 +5,5 @@ def digitCounter(s):
             digits += 1
     return digits
 
-input = input("Enter a random string: ")
-print(f"Total digits are : {digitCounter(input)}")
+word = input("Enter a random string: ")
+print(f"Total digits are : {digitCounter(word)}")

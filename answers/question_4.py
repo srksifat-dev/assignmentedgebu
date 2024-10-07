@@ -6,5 +6,5 @@ def palindromeChecker(s):
     else:
         return False
 
-input = input("Enter a string: ")
-print(palindromeChecker(input))
+word = input("Enter a string: ")
+print(palindromeChecker(word))
